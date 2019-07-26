@@ -9,7 +9,8 @@ tags:
   - web design
 ---
 
-Jekyll is fun and why should not it be. It provides a way for writing modular HTML with help of Yaml, Markdown and Liquid syntax.
+Jekyll is fun. And, why should it not be?
+It provides a way for writing modular HTML with help of Yaml, Markdown and Liquid syntax.
 Jekyll is definitely worth giving a try!
 
 <!--more-->
