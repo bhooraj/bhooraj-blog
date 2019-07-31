@@ -18,26 +18,28 @@ Moreover, it runs as 'an abstraction layer' to spin up docker containers with sa
 
 ### 1. Prerequisites for creating a development environment for Drupal 8 with Lando:
 
-  1. **Install Docker**
+ 1. **Install Docker**
 
     For Lando to work properly, we need to install Docker for Mac / Docker for Windows / Docker CE (if it's not already installed).
 
   2. **Install Lando**
 
-      1. Download the latest `.deb`, `.dmg`, `.exe`, `.pacman`, or `.rpm` package from [Lando's GitHub repository](https://github.com/lando/lando/releases) (Download the correct package depending on your OS or distro).
+	1. Download the latest `.deb`, `.dmg`, `.exe`, `.pacman`, or `.rpm` package from [Lando's GitHub repository](https://github.com/lando/lando/releases) (Download the correct package depending on your OS or distro).
 
-      2. Install the package.
+       2. Install the package.
 
-      3. If your distro uses a docker group, make sure your user is a member of it (https://docs.docker.com/install/linux/linux-postinstall/)
+       3. If your distro uses a docker group, make sure your user is a member of it.
 
-      	`$ sudo groupadd docker`
-      	`$ sudo usermod -aG docker $USER`
+      		$ sudo groupadd docker
+      		$ sudo usermod -aG docker $USER
+	
+		*Note: Visit here for more details on this: [https://docs.docker.com/install/linux/linux-postinstall/](https://docs.docker.com/install/linux/linux-postinstall/)*
+	 
+	4. Verify that you can run docker commands without sudo.
 
-      4. Verify that you can run docker commands without sudo.
+       		 $ docker run hello-world
 
-        `$ docker run hello-world`
-
-	For installation on other platforms see the Lando installation documentation here: https://docs.devwithlando.io/installation/installing.html
+      For installation on other platforms see the Lando installation documentation here: https://docs.devwithlando.io/installation/installing.html
 
   3. **Install Composer**
   
@@ -48,15 +50,21 @@ Moreover, it runs as 'an abstraction layer' to spin up docker containers with sa
 	'nodejs' and 'npm' should be installed to install npm packages. Themes or some modules for Drupal 8 might need these packages.
 
 ### 2. Creating the Local developement environment for Drupal 8 with Lando.
-	#### 1. Step 1
-		- Open the terminal from home directory. This can be anywhere as well.
-		- The following command creates a folder named 'my_site_name_dir' and pull the drupal8 code inside it.
-			<code>$ composer create-project drupal-composer/drupal-project:8.x-dev my_site_name_dir --stability dev --no-interaction</code>
-		- let's change 'my_site_name_dir' to 'drupaldev' for this example. //
 
-	#### Step 2
-- Go inside the created diretory.
-- Add a .lando.yml file(inside the) with drupal8 recipe mentioned here: https://docs.devwithlando.io/tutorials/drupal8.html
+ 1. **Step 1:**
+ 	1. Open the terminal from home directory. This can be anywhere as well.
+ 	*Note: You may use Git Bash if you are using windows.*
+ 	
+	2. The following command creates a folder named 'my_site_name_dir' and pull the drupal8 code inside it.
+	
+		`$ composer create-project drupal-composer/drupal-project:8.x-dev my_site_name_dir --stability dev --no-interaction`
+	 
+ 	     *Note: Change 'my_site_name_dir' to 'drupaldev' for this example.*
+
+ 2. **Step 2**
+	1. Go inside the created diretory.
+	
+	2. Add a `.lando.yml` file(inside the) with drupal8 recipe mentioned here: https://docs.devwithlando.io/tutorials/drupal8.html
 - Open the terminal from there. Enter the following command
 <code>$ lando start</code>
 - Above command will create a apache,php and mysql environment. Note the details mentioned as we will need this to access later.
