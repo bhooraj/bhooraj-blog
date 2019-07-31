@@ -22,14 +22,13 @@ Also, as it runs as 'an abstraction layer' to spin up docker container with sane
 
   2. **Install Lando.**
   
-   1. Download the latest `.deb`, `.dmg`, `.exe`, `.pacman`, or `.rpm` package from [Lando's GitHub repository](https://github.com/lando/lando/releases)(Download the correct package depending on your OS or distro).
+      1. Download the latest `.deb`, `.dmg`, `.exe`, `.pacman`, or `.rpm` package from [Lando's GitHub repository](https://github.com/lando/lando/releases)(Download the correct package depending on your OS or distro).
    
-   2. Install the package.
+      2. Install the package.
    
-   3. If your distro uses a docker group, make sure your user is a member of it (https://docs.docker.com/install/linux/linux-postinstall/)
-  
-          $ sudo groupadd docker
-          $ sudo usermod -aG docker $USER
+      3. If your distro uses a docker group, make sure your user is a member of it (https://docs.docker.com/install/linux/linux-postinstall/)
+      `$ sudo groupadd docker`
+      `$ sudo usermod -aG docker $USER`
         
    4. Verify that you can run docker commands without sudo.
   
