@@ -102,11 +102,14 @@ author:
   name: Bhooraj
   picture: /images/bhooraj.png
   email:
-  twitter:
+  twitter: "bhoowrites"
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/bhoowrites
+      icon: fab fa-twitter-square
+    - title: Facebook
+      url: https://www.facebook.com/bhoowrites
+      icon: fab fa-facebook-square      
 
 # Footer Links
 footer_links: false
