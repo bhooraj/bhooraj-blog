@@ -5,9 +5,9 @@ excerpt_seperator: "<!--more-->"
 categories:
   - technology
 tags:
-  - html
-  - jekyll
   - web design
+  - cms
+  - drupal 8
 ---
 Developing a Drupal 8 site or blog with a hosting plan that support Drupal 8 installation is relatively easy to do than doing it locally.
 This adds to the upfront cost, even though you just wanted to see how Drupal 8 works.
