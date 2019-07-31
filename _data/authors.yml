@@ -4,8 +4,9 @@
 Ravi Gupta:
   name: Bhooraj
   picture: /images/bhooraj.png
-  twitter: bhooraj_
+  twitter: "bhoowrites"
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/bhoowrites
+      icon: fab fa-twitter-square
+
