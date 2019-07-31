@@ -29,15 +29,15 @@ Moreover, it runs as 'an abstraction layer' to spin up docker containers with sa
 	2. Install the package.
 
 	3. If your distro uses a docker group, make sure your user is a member of it.
-
-           `$ sudo groupadd docker`
-      	   `$ sudo usermod -aG docker $USER`
+		
+		$ sudo groupadd docker
+		
+		$ sudo usermod -aG docker $USER
 	
 	    *Note: Visit here for more details on this: [https://docs.docker.com/install/linux/linux-postinstall/](https://docs.docker.com/install/linux/linux-postinstall/)*
 	 
 	4. Verify that you can run docker commands without sudo.
-
-	    `$ docker run hello-world`
+		$ docker run hello-world
 
       For installation on other platforms see the Lando installation documentation here: https://docs.devwithlando.io/installation/installing.html
 
