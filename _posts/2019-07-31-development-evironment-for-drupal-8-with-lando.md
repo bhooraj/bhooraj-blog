@@ -64,24 +64,32 @@ Moreover, it runs as 'an abstraction layer' to spin up docker containers with sa
  2. **Step 2**
 	1. Go inside the created diretory.
 	
-	2. Add a `.lando.yml` file(inside the) with drupal8 recipe mentioned here: https://docs.devwithlando.io/tutorials/drupal8.html
-- Open the terminal from there. Enter the following command
-<code>$ lando start</code>
-- Above command will create a apache,php and mysql environment. Note the details mentioned as we will need this to access later.
-- We can also use $ lando info to get this info.
+	2. Add a `.lando.yml` file (inside the directory 'drupaldev') with Drupal 8 recipe mentioned here: [https://docs.devwithlando.io/tutorials/drupal8.html](https://docs.devwithlando.io/tutorials/drupal8.html)
+	3. Open the terminal from this directory. ( Be sure about your path when in terminal. You should be inside the 'drupaldev' directory. ) 
+	Enter the following command:
+	<code>$ lando start</code>
+	
+	4. Above command will create  services like `apache`, `php` and `mysql` necessary for drupal 8 development environment. Note the details shown as the output, we will need this to access the drupal site later.
+	
+	    We can also use `$ lando info` to get this info.
 
- ### Step#3
-- Use this command to install drush 8.x or downgrade the previous version installed.
+ 3. **Step 3**
+	1. Use this command to install drush 8.x or downgrade the previous version installed.
 <code>lando composer require drush/drush 8.x</code>
-- Now a developing environment for drupal8 has been created.
-- Use the command $ lando stop to kill the app(environment) created
-- To completly erase the database and server environment use <code> $ lando destroy [app name] </code>
 
- ### Do look at the lando documentation online for more recipes,help and commands.
+	2. Now a developing environment for drupal8 has been created.
+	
+Now you are ready to expiriment and start developing with drupal 8.
 
- FEW IMPORTANT LINKS:
-- OFFICIAL GITHUB PAGE FOR 'DRUPAL-COMPOSER/DRUPAL-PROJECT':https://github.com/drupal-composer/drupal-project
-- OFFICIAL LANDO DOCUMENTION FOR DRUPAL8:https://docs.devwithlando.io/tutorials/drupal8.html
-- OFFICIAL DRUPAL DOCUMENTION FOR USING COMPOSER TO MANAGE DRUPAL SITE DEPENDENCIES:https://www.drupal.org/docs/develop/using-composer/using-composer-to-manage-drupal-site-dependencies
-- DRUPAL COMPOSER INSTALLATION GUIDE:https://www.drupal.org/docs/user_guide/en/install-composer.html
-- THIS BASIC BLOG 'GETTING STARTED WTIH LANDO' IS HELPFUL AS WELL:https://www.jeffgeerling.com/blog/2018/getting-started-lando-testing-fresh-drupal-8-umami-site
+>Note:
+ Use the command `$ lando stop` to kill the app(environment) created.
+ To completly erase the database and server environment use:
+	<code> $ lando destroy [app name] </code>
+
+>Few Important links:
+- OFFICIAL GITHUB PAGE FOR 'DRUPAL-COMPOSER/DRUPAL-PROJECT': https://github.com/drupal-composer/drupal-project
+- OFFICIAL LANDO DOCUMENTION FOR DRUPAL8: https://docs.devwithlando.io/tutorials/drupal8.html
+- OFFICIAL DRUPAL DOCUMENTION FOR USING COMPOSER TO MANAGE DRUPAL SITE DEPENDENCIES: https://www.drupal.org/docs/develop/using-composer/using-composer-to-manage-drupal-site-dependencies
+- DRUPAL COMPOSER INSTALLATION GUIDE: https://www.drupal.org/docs/user_guide/en/install-composer.html
+- THIS  BLOG 'GETTING STARTED WTIH LANDO' IS HELPFUL AS WELL: https://www.jeffgeerling.com/blog/2018/getting-started-lando-testing-fresh-drupal-8-umami-site
+</blockquote>
