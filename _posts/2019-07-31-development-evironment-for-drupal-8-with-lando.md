@@ -107,3 +107,8 @@ Moreover, it runs as an 'abstraction layer' to spin up docker containers with sa
  - Drupal Composer installation guide: [https://www.drupal.org/docs/user_guide/en/install-composer.html](https://www.drupal.org/docs/user_guide/en/install-composer.html)
  - This blog by Jeff Geerling is helpful: [https://www.jeffgeerling.com/blog/2018/getting-started-lando-testing-fresh-drupal-8-umami-site](https://www.jeffgeerling.com/blog/2018/getting-started-lando-testing-fresh-drupal-8-umami-site)
 <br>
+<hr>
+**You may add your impressions regarding the blog post here:**
+  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Choosing between Jekyll or a HTML &amp; CSS site? <br>This article might help.<a href="https://t.co/zCMlxkdoT3">https://t.co/zCMlxkdoT3</a><a href="https://twitter.com/hashtag/jekyll?src=hash&amp;ref_src=twsrc%5Etfw">#jekyll</a> <a href="https://twitter.com/hashtag/html?src=hash&amp;ref_src=twsrc%5Etfw">#html</a> <a href="https://twitter.com/hashtag/webdesign?src=hash&amp;ref_src=twsrc%5Etfw">#webdesign</a> <a href="https://twitter.com/hashtag/bhooraj?src=hash&amp;ref_src=twsrc%5Etfw">#bhooraj</a></p>&mdash; bhooraj (@bhoowrites) <a href="https://twitter.com/bhoowrites/status/1156637249728962560?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<hr>
+
