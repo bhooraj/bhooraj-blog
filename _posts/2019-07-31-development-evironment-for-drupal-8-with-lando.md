@@ -39,7 +39,7 @@ Moreover, it runs as 'an abstraction layer' to spin up docker containers with sa
 	4. Verify that you can run docker commands without sudo.
 		$ docker run hello-world
 
-      For installation on other platforms see the Lando installation documentation here: https://docs.devwithlando.io/installation/installing.html
+	For installation on other platforms see the Lando installation documentation here: https://docs.devwithlando.io/installation/installing.html
 
   3. **Install Composer**
   
