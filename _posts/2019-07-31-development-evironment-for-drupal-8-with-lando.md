@@ -9,7 +9,7 @@ tags:
   - cms
   - drupal 8
 ---
-Developing a Drupal 8 site or blog with a hosting plan that support Drupal 8 installation is relatively easy to do than doing it locally.
+Developing a Drupal 8 site or blog with a hosting plan that supports Drupal 8 installation is relatively easy to do than doing it locally.
 This adds to the upfront cost, even though you just wanted to see how Drupal 8 works.
 
 <!--more-->
@@ -18,7 +18,7 @@ If you wish to develop a Drupal 8 blog or site locally, there are few solutions 
 
 'Acquia Dev Desktop' is one of them, it helps in creating a local development environment for Drupal 8. But, it only have installer for Mac and Windows.
 
-Installing 'Ampps', 'WampServer', or a 'LAMP'/'LEMP' stack can be on the option as well.
+Installing 'Ampps', 'WampServer', or a 'LAMP'/'LEMP' stack could be one of the option as well.
 
 But, I have found [Lando](https://docs.devwithlando.io/) makes it easier to do so. Irrespective of the operating system or distro you are working on.
 Moreover, it runs as an 'abstraction layer' to spin up docker containers with sane defaults.
@@ -66,10 +66,10 @@ Moreover, it runs as an 'abstraction layer' to spin up docker containers with sa
 
 ### 2. Creating the Local development environment for Drupal 8 with Lando.
 
-  1. Open the terminal from home directory. This can be anywhere as well.
+  1. Open the terminal from home directory. This can be from anywhere as well.
     *Note: You may use Git Bash if you are using windows.*
 
-  2. Use the following command creates a folder named 'my_site_name_dir' and pull the drupal8 code inside it.
+  2. Use the following command to create a folder named 'my_site_name_dir' and pull the Drupal 8 code inside it.
 
       `$ composer create-project drupal-composer/drupal-project:8.x-dev my_site_name_dir --stability dev --no-interaction`
 
@@ -83,19 +83,19 @@ Moreover, it runs as an 'abstraction layer' to spin up docker containers with sa
 
 	   `$ lando start`
 
-  6. Above command will create  services like `apache`, `php` and `mysql` necessary for Drupal 8 development environment. Note the details shown as the output, we will need this to access the Drupal site later.
+  6. The above command will create  services like `apache`, `php` and `mysql` necessary for Drupal 8 development environment. Note the details shown in the output, we will need this to access the Drupal site later.
 
-     We can also use `$ lando info` to get this info.
+     We can also use `$ lando info` to get this information.
 
  7. Use this command to install drush 8.x or downgrade the previous version installed.
   <code>lando composer require drush/drush 8.x</code>
 
- 8. Now a developing environment for Drupal 8 has been created.
+ 8. A development environment for Drupal 8 has been created.
 
 #### Now we are ready to experiment and start developing with Drupal 8.
 
 >Note:
- Use the command `$ lando stop` to kill the app(environment) created.
+ Use the command `$ lando stop` to kill the app (environment) created.
  To completely erase the database and server environment use:
 	`$ lando destroy [app name]`
 
@@ -111,4 +111,3 @@ Moreover, it runs as an 'abstraction layer' to spin up docker containers with sa
 **You may add your impressions regarding the blog post here:**
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s how to create a development environment for Drupal 8 with Lando. <a href="https://t.co/L6XVqNUt1q">https://t.co/L6XVqNUt1q</a><a href="https://twitter.com/hashtag/Drupal8?src=hash&amp;ref_src=twsrc%5Etfw">#Drupal8</a> <a href="https://twitter.com/hashtag/Drupal?src=hash&amp;ref_src=twsrc%5Etfw">#Drupal</a> <a href="https://twitter.com/hashtag/CMS?src=hash&amp;ref_src=twsrc%5Etfw">#CMS</a> <a href="https://twitter.com/hashtag/webdesign?src=hash&amp;ref_src=twsrc%5Etfw">#webdesign</a> <a href="https://twitter.com/hashtag/Lando?src=hash&amp;ref_src=twsrc%5Etfw">#Lando</a> <a href="https://twitter.com/hashtag/Bhooraj?src=hash&amp;ref_src=twsrc%5Etfw">#Bhooraj</a></p>&mdash; bhooraj (@bhoowrites) <a href="https://twitter.com/bhoowrites/status/1156649885040431105?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <hr>
-
