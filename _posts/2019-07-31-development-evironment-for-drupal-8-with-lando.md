@@ -51,7 +51,7 @@ Moreover, it runs as an 'abstraction layer' to spin up docker containers with sa
 
      `$ docker run hello-world`
 
-   - To see complete documentation on Installing Lando for your OS visit appropriate links:
+   - To see complete documentation on Installing Lando for your OS, visit appropriate links:
      - Linux: [https://docs.devwithlando.io/installation/linux.html](https://docs.devwithlando.io/installation/linux.html)
      - MacOS: [https://docs.devwithlando.io/installation/macos.html](https://docs.devwithlando.io/installation/macos.html)
      - Windows: [https://docs.devwithlando.io/installation/windows.html](https://docs.devwithlando.io/installation/windows.html)
