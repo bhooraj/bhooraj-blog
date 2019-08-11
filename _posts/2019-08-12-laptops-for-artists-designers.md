@@ -80,7 +80,7 @@ It's often pointed out that the higher the RAM capacity, the better it's for the
 
  <ul><li><strong>RAM Type:</strong> A RAM could be of a DDR, DDR2, DDR3 and DDR4 type. DDR5 type RAM is yet to arrive. DDR and DDR2 types are absolute these days. Most of the laptop vendors today are sticking with DDR3 or DDR4 type RAM. If you want to be future proof, opt for DDR4 type RAM. 
  
-*Note: let us not confuse the RAM with Graphics Memory for which DDR5 type is available.*</li><br>
+<i>Note: let us not confuse the RAM with Graphics Memory for which DDR5 type is available.</i></li><br>
  
  <li><strong>RAM Capacity:</strong> If you do not need to run heavy art applications, then 8 GB of RAM should be sufficient. If you run resource-heavy applications, 16 GB of RAM should be safe to go. For mission-critical applications, you may have 32 GB of system RAM. It is better to have two memory modules than a single memory module in a system. But, make sure your modules are the dual-channel modules, and your motherboard supports dual channel RAM.</li><br>
  
