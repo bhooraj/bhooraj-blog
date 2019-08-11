@@ -118,6 +118,10 @@ Separate Graphic Digitizer devices can be connected through the USB port and are
 <strong> So, these were some important factors while deciding the right laptop for yourself. I hope the article helps you in making the right choice.</strong>
 
 ***Note: We will update and edit the article to keep it relevant.  If you find any errors and mistakes, do write to us on our social handles.***
-
+<br>
+<hr>
+**You may add your impressions regarding the blog post here:**
+  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Having hard time finding the right laptop for your art and design projects? Read this article: <a href="https://t.co/aVjoEQ81R8">https://t.co/aVjoEQ81R8</a><a href="https://twitter.com/hashtag/art?src=hash&amp;ref_src=twsrc%5Etfw">#art</a> <a href="https://twitter.com/hashtag/design?src=hash&amp;ref_src=twsrc%5Etfw">#design</a> <a href="https://twitter.com/hashtag/ChoosingLaptop?src=hash&amp;ref_src=twsrc%5Etfw">#ChoosingLaptop</a> <a href="https://twitter.com/hashtag/artists?src=hash&amp;ref_src=twsrc%5Etfw">#artists</a> <a href="https://twitter.com/hashtag/designers?src=hash&amp;ref_src=twsrc%5Etfw">#designers</a></p>&mdash; bhooraj (@bhoowrites) <a href="https://twitter.com/bhoowrites/status/1160643013426610176?ref_src=twsrc%5Etfw">August 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<hr>
  
 
