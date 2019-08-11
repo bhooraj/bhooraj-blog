@@ -3,7 +3,7 @@ layout: post
 title: "Choosing a Laptop for Artists and Designers."
 excerpt_seperator: "<!--more-->"
 categories:
-  - art and design
+  - art-and-design
 tags:
   - laptop
   - hardware
