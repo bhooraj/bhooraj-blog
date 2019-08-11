@@ -34,7 +34,7 @@ So, let us breakdown the choices in the following hierarchical order:
 	 	<li>Storage Drives</li>
 	 	<li>Integrated Graphics Digitizer Support</li>
 	</ol>
-<ol>
+</ol>
 
 #1. Budget
 We think this is the most important criteria while choosing a laptop. Keeping a fixed budget will save you a lot of time later when thinking about your needs, and the hardware components you want to include in your laptop. There is no point looking in detail, the product, which we can’t afford or will put a burden on our spendings. 
