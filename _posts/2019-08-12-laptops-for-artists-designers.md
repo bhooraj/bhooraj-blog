@@ -80,11 +80,11 @@ It's often pointed out that the higher the RAM capacity, the better it's for the
 
  <ul><li><strong>RAM Type:</strong> A RAM could be of a DDR, DDR2, DDR3 and DDR4 type. DDR5 type RAM is yet to arrive. DDR and DDR2 types are absolute these days. Most of the laptop vendors today are sticking with DDR3 or DDR4 type RAM. If you want to be future proof, opt for DDR4 type RAM. 
  
- *Note: let us not confuse the RAM with Graphics Memory for which DDR5 type is available.*</li>
+*Note: let us not confuse the RAM with Graphics Memory for which DDR5 type is available.*</li><br>
  
- <li><strong>RAM Capacity:</strong> If you do not need to run heavy art applications, then 8 GB of RAM should be sufficient. If you run resource-heavy applications, 16 GB of RAM should be safe to go. For mission-critical applications, you may have 32 GB of system RAM. It is better to have two memory modules than a single memory module in a system. But, make sure your modules are the dual-channel modules, and your motherboard supports dual channel RAM.</li>
+ <li><strong>RAM Capacity:</strong> If you do not need to run heavy art applications, then 8 GB of RAM should be sufficient. If you run resource-heavy applications, 16 GB of RAM should be safe to go. For mission-critical applications, you may have 32 GB of system RAM. It is better to have two memory modules than a single memory module in a system. But, make sure your modules are the dual-channel modules, and your motherboard supports dual channel RAM.</li><br>
  
- <li><strong>RAM Frequency:</strong> The RAM frequency is measured in MHz (Megahertz). It is always good to have a higher frequency RAM module. We advise our readers to buy the laptops that incorporate non-expensive modules with good frequency and are readily available in the market. Doing this will help you find the replacement modules easily. Also, make sure to buy a RAM module that is compatible with your laptop motherboard if you are upgrading or replacing the memory module.</li></ul>
+ <li><strong>RAM Frequency:</strong> The RAM frequency is measured in MHz (Megahertz). It is always good to have a higher frequency RAM module. We advise our readers to buy the laptops that incorporate non-expensive modules with good frequency and are readily available in the market. Doing this will help you find the replacement modules easily. Also, make sure to buy a RAM module that is compatible with your laptop motherboard if you are upgrading or replacing the memory module.</li></ul><br>
  
  
 ## 4.3 Graphics Processor
