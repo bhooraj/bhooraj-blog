@@ -4,6 +4,7 @@ title: "Choosing a Laptop for Artists and Designers."
 excerpt_seperator: "<!--more-->"
 image: 
  path: /images/laptop-for-artists-designers.png
+ thumbnail: /images/laptop-for-artists-designers-400x200.png
  caption: "Credits: [Ravi Gupta](https://www.ravigupta.me/)"
 categories:
   - art-and-design
