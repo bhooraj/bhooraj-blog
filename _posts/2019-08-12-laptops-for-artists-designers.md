@@ -41,7 +41,7 @@ We think this is the most important criteria while choosing a laptop. Keeping a 
 
 The budget could be different for different people. The budget is sometimes dependent on the profession we have, but often it doesn’t. For Art, there is no perfect way to evaluate it, how much it is worth.
 
-Knowing a higher range of the amount that you can spend is always the best. But, it also a good practice not to make a purchase that is cheapest and may not serve you the purpose. And, this is where our other criteria (our needs) come in to play.
+Knowing a higher range of the amount that you can spend is always the best. But, it is also a good practice not to make a purchase that is cheapest and may not serve you the purpose. And, this is where our other criteria (our needs) come in to play.
 
 # 2. Needs
 Art and Design are two vast fields of studies. The individual types of designers or artists have their particular needs.  An artist or a designer may need the computing device just to go through the documents and view some references whenever needed. For these types of tasks, we don’t need a high-end computing device. A modern device with a decent processor will do the job as well. But if you need to run applications that are resource hungry, we will need a better processor and more RAM. A Graphic Processor (GPU) plays an important role if you want to run 3D applications or create art.
