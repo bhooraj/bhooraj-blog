@@ -3,7 +3,7 @@ layout: post
 title: "Choosing a Laptop for Artists and Designers."
 excerpt_seperator: "<!--more-->"
 image: 
- path: /images/laptop-for-artists-designers.jpg
+ path: /images/laptop-for-artists-designers.png
  caption: "Art by [www.ravigupta.me](https://www.ravigupta.me/)"
 categories:
   - art-and-design
