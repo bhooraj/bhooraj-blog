@@ -58,7 +58,7 @@ My suggestion would be to go with the device that is sufficient enough for your 
 # 3. Operating System
 An operating system in a broad sense (we don't want to get into kernel, BIOS etc.) plays an important role in handling and controlling the hardware. Today, we have so many choices to pick while selecting an operating system. Windows, Macintosh and Linux are the most popular operating systems for the laptops and desktops. 
 
-Windows and Linux supports a large list of hardware components. Macintosh, on the other hand, have only a few self-defined configurations to supports. In easy words, Apple Inc. packages a machine (laptop or desktop) from hardware components made by different vendors and the self-made operating system. *Note: This applies to an iPad or iPhone as well, but let us stay relevant to this article as we were discussing laptops and desktops.* 
+Windows and Linux supports a large list of hardware components. Macintosh, on the other hand, have only a few self-defined configurations to support. In easy words, Apple Inc. packages a machine (laptop or desktop) from hardware components made by different vendors and the self-made operating system. *Note: This applies to an iPad or iPhone as well, but let us stay relevant to this article as we were discussing laptops and desktops.* 
 
 There are a lot of advantages to this approach. For example, this allows the focus on software support rather than hardware support. And, a lesser chance of misconfiguration of hardware and software. But, it also locks down the user with the older components and higher price rates.
 
