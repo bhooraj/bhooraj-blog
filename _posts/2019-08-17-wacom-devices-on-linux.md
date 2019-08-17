@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wacom tablets work better on linux than windows?"
+title: "Wacom tablets work better on Linux than Windows?"
 excerpt_seperator: "<!--more-->"
 image: 
  path: /images/08-2019/2019-08-17-wacom-devices-on-linux-1600x800.webp
