@@ -2,9 +2,6 @@
 layout: post
 title: "The all new Raspberry Pi 4b"
 excerpt_seperator: "<!--more-->"
-image: 
- thumbnail: /images/08-2019/pi4-labelled.png
- caption: "Credits: [Ravi Gupta](https://www.ravigupta.me/)"
 categories:
   - technology
 tags:
