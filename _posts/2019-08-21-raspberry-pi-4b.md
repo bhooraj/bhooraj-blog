@@ -3,7 +3,6 @@ layout: post
 title: "The all new Raspberry Pi 4b"
 excerpt_seperator: "<!--more-->"
 image:
- path:
  thumbnail: /images/08-2019/pi4-labelled.png
 categories:
   - technology
