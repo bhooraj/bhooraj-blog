@@ -60,7 +60,7 @@ Few reasons why we liked the Wacom experience on Linux Mint:
 
 - We didn't find any artefacts while we drew on the tablet.
 
-- Similar experience while drawing across all the Art Apps that could be installed on Linux Mint.
+- Similar experience while drawing across all the Art Apps that we installed on Linux Mint.
 
 Below is a screenshot of an attempt to draw a circle on Linux Mint using KRITA with our 'One by Wacom' (Model: CTL-671)
 
