@@ -47,7 +47,7 @@ Before, Raspberry Pi 4b, the Raspberry Pi Foundation has released many other [mo
 </figure>
 
 # Raspberry pi 4b for Artists and Designers
-**We got our 4GB version of Raspberry Pi 4 soon after its release, but we took out time to write this article so that it is more relevant for our users.**
+**We got our 4GB version of Raspberry Pi 4 soon after its release, but we took out time to write this article to make it more relevant for our users.**
 
 - **Use it as a Desktop**: If your needs are to browse the internet and view some references, Raspberry Pi 4b is a suitable choice for you. It is an affordable device that you can plug into any HDMI TV/Monitor through a 'micro-HDMI to HDMI cable'. It is a small factor device with less power consumption. You can carry it in your pocket where ever you go.
 
