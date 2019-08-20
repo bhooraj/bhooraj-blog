@@ -18,7 +18,7 @@ tags:
   - krita
   - clip studio paint
 ---
-Wacom drivers and windows have a past full of issues. Let's see if the experience is better Linux or not.
+Wacom drivers and windows have a past full of issues. Let's see if the experience is better on Linux or not.
 
 <!--more-->
 
@@ -50,7 +50,7 @@ The result remains the same on Windows 10 Pro while we switch to Intuos 4 for ou
 # Linux and Wacom Devices
 **We have used the Wacom devices on UBUNTU 18.04 LTS and LINUX MINT. So our findings below are based on these two distros only.**
 
-Initially, we installed the Ubuntu 18.04 LTS for catering in our needs for coding. We were developing a website, and it was getting cumbersome for us to install and manage packages on Windows. So, we decided to give Linux (Ubuntu) a try. It helped us a lot in achieving our goals. And, we started reading more Ubuntu and other Linux distributions.
+Initially, we installed the Ubuntu 18.04 LTS for catering in our needs for coding. We were developing a website, and it was getting cumbersome for us to install and manage packages on Windows. So, we decided to give Linux (Ubuntu) a try. It helped us a lot in achieving our goals. And, we started reading more about Ubuntu and other Linux distributions.
 
 Finally, we came across Linux Mint, a distro based on Ubuntu. We loved it, not because of its UI resembling with windows. But, because we found it more stable and fast as compared to Ubuntu.
 
