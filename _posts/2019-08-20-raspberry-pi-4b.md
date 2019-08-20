@@ -40,6 +40,7 @@ Before, Raspberry Pi 4b, the Raspberry Pi Foundation has released many other [mo
 - Power over Ethernet (PoE) enabled (requires separate PoE HAT)
 - Operating temperature: 0 – 50 degrees C ambient
 ([Source](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/))
+
 <br>
 <figure class="align-center">
   <a href="#"><img src="{{ '/images/08-2019/pi4-labelled.png' | absolute_url }}" alt="Raspberry Pi 4b"></a>
