@@ -4,13 +4,26 @@
 
 /* Inline code block */
 
-code.highlighter-rouge {
+/*code.highlighter-rouge {
   margin: 0;
   padding: 0.2em 0.4em;
   color: $base05;
   background-color: $base00;
   font-size: 85%;
   border-radius: 3px;
+}*/
+
+code.highlighter-rouge {
+    margin: 0 .1em 0 .1em;
+    padding: 0.1em 0.2em;
+        padding-top: 0.1em;
+        padding-right: 0.2em;
+        padding-bottom: 0.1em;
+        padding-left: 0.2em;
+    color: #242424;
+    background-color: #ececec;
+    font-size: 95%;
+    border-radius: 3px;
 }
 
 /* Multi-line code blocks */
