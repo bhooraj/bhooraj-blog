@@ -77,7 +77,7 @@ The first two variants come with a GUI (Graphical User Interface). The Raspbian 
 Use the following commands to update and upgrade:
 
     `$ sudo apt-get update && sudo apt-get upgrade`
-	
+
 12. Reboot your Raspberry Pi. Use the following command:
     
     `$ sudo shutdown -r now`
