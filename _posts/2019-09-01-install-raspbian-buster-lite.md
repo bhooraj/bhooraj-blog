@@ -87,5 +87,8 @@ The first two variants come with a GUI (Graphical User Interface). The Raspbian 
     
 > **That is it, our Raspberry Pi with Raspbian Buster Lite is now ready. We may install any packages we wish.**
 
-
-
+<br>
+<hr>
+**You may add your impressions regarding the blog post here:**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to Install Raspbian Buster Lite on Raspberry Pi 4b.<a href="https://twitter.com/hashtag/raspberrypi4b?src=hash&amp;ref_src=twsrc%5Etfw">#raspberrypi4b</a> <a href="https://twitter.com/hashtag/raspberrypi?src=hash&amp;ref_src=twsrc%5Etfw">#raspberrypi</a> <a href="https://twitter.com/hashtag/rpi4b?src=hash&amp;ref_src=twsrc%5Etfw">#rpi4b</a> <a href="https://twitter.com/hashtag/linux?src=hash&amp;ref_src=twsrc%5Etfw">#linux</a> <a href="https://twitter.com/hashtag/raspbian?src=hash&amp;ref_src=twsrc%5Etfw">#raspbian</a> <a href="https://twitter.com/hashtag/raspbianbuster?src=hash&amp;ref_src=twsrc%5Etfw">#raspbianbuster</a><a href="https://t.co/pTEu7EKuzd">https://t.co/pTEu7EKuzd</a></p>&mdash; bhooraj (@bhoowrites) <a href="https://twitter.com/bhoowrites/status/1168105522882465792?ref_src=twsrc%5Etfw">September 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<hr>
