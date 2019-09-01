@@ -75,10 +75,8 @@ The first two variants come with a GUI (Graphical User Interface). The Raspbian 
    
 10. Remember the password you typed in. And, keep it at a safe place. We will need this a lot in future.
 
-11.  Let's update the package list from repositories and upgrade the packages first. This is important from the security point of view. Having the packages up-to-date is must, there is no exception for that.
-  
-  Use the following commands to update and upgrade:
-    
+11.  Let's update the package list from repositories and upgrade the packages first. This is important from the security point of view. Having the packages up-to-date is must, there is no exception for that. Use the following commands to update and upgrade:
+
       `$ sudo apt-get update && sudo apt-get upgrade`
 
 12. Reboot your Raspberry Pi. Use the following command:
