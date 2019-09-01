@@ -52,8 +52,9 @@ The first two variants come with a GUI (Graphical User Interface). The Raspbian 
 
 4. Connect to Raspberry Pi using SSH on a different machine on the same local network.
 
-5. The command we need to use will be something as follow:<br>
-`$ ssh useraname@localIPaddress`
+5. The command we need to use will be something as follow:
+  
+      `$ ssh useraname@localIPaddress`
   
 6. The default username for Raspberry Pi is `'pi'`. And for this example, the local IP assigned to Rpi 4 is `192.168.0.5`.
   So, our command to SSH into Rpi 4 would be:<br>
