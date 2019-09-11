@@ -50,5 +50,6 @@ If you want to read more about the Blender 2.80 and its features, you may visit 
 <br>
 <hr>
 **You may add your impressions regarding the blog post here:**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Installing Blender 2.80 on Linux Mint <a href="https://t.co/FXB7gcGuiA">https://t.co/FXB7gcGuiA</a><a href="https://twitter.com/hashtag/installationsteps?src=hash&amp;ref_src=twsrc%5Etfw">#installationsteps</a> <a href="https://twitter.com/hashtag/blender2?src=hash&amp;ref_src=twsrc%5Etfw">#blender2</a>.80 <a href="https://twitter.com/hashtag/blender?src=hash&amp;ref_src=twsrc%5Etfw">#blender</a> <a href="https://twitter.com/hashtag/linux?src=hash&amp;ref_src=twsrc%5Etfw">#linux</a> <a href="https://twitter.com/hashtag/linuxmint?src=hash&amp;ref_src=twsrc%5Etfw">#linuxmint</a> <a href="https://twitter.com/hashtag/snapcraft?src=hash&amp;ref_src=twsrc%5Etfw">#snapcraft</a> <a href="https://twitter.com/hashtag/snapd?src=hash&amp;ref_src=twsrc%5Etfw">#snapd</a></p>&mdash; bhooraj (@bhoowrites) <a href="https://twitter.com/bhoowrites/status/1171732712069025792?ref_src=twsrc%5Etfw">September 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <hr>
 
