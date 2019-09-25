@@ -58,8 +58,6 @@ Exec=/opt/trelby/bin/trelby
 Icon=/opt/trelby/resources/icon256.png
 Type=Application
 Categories=Utility;Publishing;
-
-
 ```
 7. Press `ctrl+x` and then `y` to save the file.
 
