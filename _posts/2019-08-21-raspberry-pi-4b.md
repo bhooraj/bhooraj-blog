@@ -68,6 +68,8 @@ Before, Raspberry Pi 4b, the Raspberry Pi Foundation has released many other [mo
 
 Above are the few of the use cases we found best for artists and designers. Although there are other things you can do with a Rpi 4b (such as to create a [Pi Projector](https://www.youtube.com/watch?v=RxQ4GFfPJFo) or Pi Plotter), we haven't tried them yet.
 
+You may buy Raspberry Pi 4b from following link: https://amzn.to/35v8eXT
+
 <br>
 <hr>
 **You may add your impressions regarding the blog post here:**
