@@ -46,6 +46,8 @@ The result remains the same on Windows 10 Pro while we switch to Intuos 4 for ou
 
 *Note: We do not know how the Wacom devices perform while using Adobe Photoshop on Window 10 Pro.*
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B07BPDGF32&asins=B07BPDGF32&linkId=72732ef6601e8e78cb9796f88e25cbe8&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0b467d&bg_color=ffffff">
+    </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B01MQU5LW7&asins=B01MQU5LW7&linkId=c361910751a8b2a11175f50fd3726a9b&show_border=true&link_opens_in_new_window=true"></iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B07RXWY67K&asins=B07RXWY67K&linkId=97b08522747627c7fb122a7f5d37329c&show_border=true&link_opens_in_new_window=true"></iframe>
 
 # Linux and Wacom Devices
 **We have used the Wacom devices on UBUNTU 18.04 LTS and LINUX MINT. So our findings below are based on these two distros only.**
