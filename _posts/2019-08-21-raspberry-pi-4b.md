@@ -68,8 +68,11 @@ Before, Raspberry Pi 4b, the Raspberry Pi Foundation has released many other [mo
 
 Above are the few of the use cases we found best for artists and designers. Although there are other things you can do with a Rpi 4b (such as to create a [Pi Projector](https://www.youtube.com/watch?v=RxQ4GFfPJFo) or Pi Plotter), we haven't tried them yet.
 
-You may buy Raspberry Pi 4b from following link: [https://amzn.to/35v8eXT](https://amzn.to/35v8eXT)
+You may buy Raspberry Pi 4b and related accessories from the following links:
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B07TC2BK1X&asins=B07TC2BK1X&linkId=92860685ea04da5eef55f8aa082761b8&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B07XY8F3P7&asins=B07XY8F3P7&linkId=7c856fb70204c64299551939f32a0785&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B07XY7ZJT4&asins=B07XY7ZJT4&linkId=8223982baebe6b6323212eed6ad43c52&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B07V1RFFYT&asins=B07V1RFFYT&linkId=e79ea1548ebc5fc98913f97f63312f0c&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <br>
 <hr>
