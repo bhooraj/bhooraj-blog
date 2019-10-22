@@ -33,6 +33,7 @@ The first two variants come with a GUI (Graphical User Interface). The Raspbian 
     
     <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B06XWMQ81P&asins=B06XWMQ81P&linkId=d266c7adb9003166b396d7b442ab28c3&show_border=true&link_opens_in_new_window=true"></iframe>
 
+
 3. We will use 'balenaEtcher' program to flash the image to the card. So, you can download  'balenaEtcher' from their [download page](https://www.balena.io/etcher/). Download the right installation media accordingly for your computer's OS.
 
 4. Start the 'balenaEtcher' program. Click on 'Select image' button and select the 'Raspbain Buster Lite' zip.
