@@ -29,10 +29,9 @@ The first two variants come with a GUI (Graphical User Interface). The Raspbian 
 # Installation steps
 1.  Download the Raspbian Buster Lite image from the [Raspberry Pi's Raspbian download page](https://www.raspberrypi.org/downloads/raspbian/).
 
-2. Take a micro-SD card (a pre-formatted card or the one that does not have some valuable data) and connect it to a computer using a micro-SD card reader. Prefer atleast a UHS-I, Grade 1, Class 10 micro-SD card for better performance. We use the following card: 
+2. Take a micro-SD card (a pre-formatted card or the one that does not have some valuable data) and connect it to a computer using a micro-SD card reader. Prefer, atleast a UHS-I, Grade 1, Class 10 micro-SD card for better performance. We use the following card: 
     
     <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B06XWMQ81P&asins=B06XWMQ81P&linkId=d266c7adb9003166b396d7b442ab28c3&show_border=true&link_opens_in_new_window=true"></iframe>
-
 
 3. We will use 'balenaEtcher' program to flash the image to the card. So, you can download  'balenaEtcher' from their [download page](https://www.balena.io/etcher/). Download the right installation media accordingly for your computer's OS.
 
