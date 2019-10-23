@@ -2,6 +2,9 @@
 layout: post
 title: "Installing Raspbian Buster Lite on Raspberry Pi 4b"
 excerpt_seperator: "<!--more-->"
+image: 
+ path: /images/10-2019/2019-10-23-InstallingRaspbianBusterLite-1600x800.webp
+ thumbnail: /images/10-2019/2019-10-23-InstallingRaspbianBusterLite-800x400.webp
 categories:
   - technology
 tags:
