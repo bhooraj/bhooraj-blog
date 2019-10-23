@@ -92,6 +92,9 @@ The first two variants come with a GUI (Graphical User Interface). The Raspbian 
     
 > **That is it, our Raspberry Pi with Raspbian Buster Lite is now ready. We may install any packages we wish.**
 
+## You may view the video tutorial for additional help.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zi1dIXxu_Qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br>
 <hr>
 **You may add your impressions regarding the blog post here:**
