@@ -26,7 +26,7 @@ In this review, we will look into details about the product specifications, perf
   <figcaption>Mobile Studio Pro 13-inch variant.</figcaption>
 </figure>
 
-##Specifications
+## Specifications
 
 The 13-inch variant of the product comes with following major specification in India region:
 
