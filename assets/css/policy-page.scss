@@ -1,0 +1,48 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+body {
+	h1{
+		font-size: 1.75rem;
+	}
+	h2{
+		font-size: 1.5rem;
+	}
+	h3{
+		font-size: 1.35rem;
+	}
+	h4{
+		font-size: 1.32rem;
+	}
+	h5{
+		font-size: 1.30rem;
+	}
+	h6{
+		font-size: 1.25rem;
+	}
+}
+@media only screen and (max-width: 400px) {
+	body{
+		padding-left: 6vw; 
+		padding-right: 6vw;
+	}
+}
+@media only screen and (min-width: 400px) {
+	body{
+		padding-left: 15vw; 
+		padding-right: 15vw;
+	}
+}
+
+@media only screen and (min-width: 1198px) {
+	body{
+		padding-left: 25vw; 
+		padding-right: 25vw;
+	}
+}
+
+.dated {
+	font-size: 12px;
+}

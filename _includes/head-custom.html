@@ -1,5 +1,10 @@
 <!-- start custom head snippets -->
 
-<!-- insert favicons. use http://realfavicongenerator.net/ -->
+{% if site.google_analytics_four and jekyll.environment == 'production' %}
+{% include google-analytics.html %}
+<!-- cookieconsent css starts-->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<!-- cookieconsent css ends -->
+{%- endif %}
 
 <!-- end custom head snippets -->

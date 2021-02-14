@@ -1,0 +1,61 @@
+<style type="text/css" media="screen">
+a:link.policy-link { color:#ffff; opacity:0.8; text-decoration: underline; }
+a:visited.policy-link { color:#ffff; text-decoration: underline; }
+a:hover.policy-link { color:#ffff; opacity:1.0; text-decoration: underline; }
+a:active.policy-link { color:#ffff; text-decoration: underline; }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#383b75"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  },
+  "position": "bottom-left",
+  "animate": true,
+  "type": "opt-in",
+  "content": {
+    "message": "By using this website you agree to our terms and policies. You may not use this Website if you do not accept our Terms and Policies. <a href='/terms-and-privacy-policy/' class='policy-link' target='_blank'>Read our terms and policies</a> <br><br>You may opt-out of Google Analytics tracking on our site. Choose the 'Decline' button to opt-out and 'Allow' button to allow the tracking.<br>",
+    "dismiss": "Decline",
+    "allow": "Allow",
+    "link": "Learn more ",
+    "href": "/terms-and-privacy-policy/#google-analytics"
+  },
+  onInitialise: function (status) {
+    var type = this.options.type;
+    var didConsent = this.hasConsented();
+    if (type == 'opt-in' && didConsent) {
+      // enable cookies
+      loadGAonConsent();
+    }
+    if (type == 'opt-out' && !didConsent) {
+      // disable cookies
+    }
+  },
+  onStatusChange: function(status, chosenBefore) {
+    var type = this.options.type;
+    var didConsent = this.hasConsented();
+    if (type == 'opt-in' && didConsent) {
+      // enable cookies
+      loadGAonConsent();
+    }
+    if (type == 'opt-out' && !didConsent) {
+      // disable cookies
+    }
+  },
+  onRevokeChoice: function() {
+    var type = this.options.type;
+    if (type == 'opt-in') {
+      // disable cookies
+    }
+    if (type == 'opt-out') {
+      // enable cookies
+      loadGAonConsent();
+    }
+  }
+});
+</script>
