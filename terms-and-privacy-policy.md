@@ -10,9 +10,6 @@ custom_css: policy-page
 ## Terms of Use
 By using this Website, you agree to the Terms and Policies mentioned on this page. You may not use this Website if you do not accept our Terms and Policies.
 
-Solutions to the Question Papers provided on this Website are for your reference only. Do not plagiarise the content for writing your Assignments and Exams.
-
-
 ## Privacy Policy
 The privacy of our visitors is extremely important to us. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
