@@ -14,9 +14,7 @@ tags:
   - raspberry pi os
   - raspberry pi imager
 ---
-[Raspberry Pi Foundation][def] has made changes to where and how one can download their software. There's a new home to their [software page](https://www.raspberrypi.com/software/). With this new homepage, they have a new tool to install the OS. It is called Raspberry Pi Imager.
-
-In this short tutorial let us learn how to install the Raspberry Pi OS using Raspberry Pi Imager. This article will also help if you want to install Ubuntu on a supported Raspberry Pi device (see step 3).
+[Raspberry Pi Foundation][def] has made changes to where and how one can download their software. There's a new home to their [software page](https://www.raspberrypi.com/software/). With this new homepage, they have a new tool to install the OS. It is called Raspberry Pi Imager. In this short tutorial let us learn how to install the Raspberry Pi OS using Raspberry Pi Imager. This article will also help if you want to install Ubuntu on a supported Raspberry Pi device (see step 3).
 <!--more-->
 
 # Raspberry Pi OS
