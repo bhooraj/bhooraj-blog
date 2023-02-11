@@ -14,11 +14,11 @@ This adds to the upfront cost, even though you just wanted to see how Drupal 8 w
 
 <!--more-->
 
-If you wish to develop a Drupal 8 blog or site locally, there are few solutions that can help you to do so.
+If you wish to develop a Drupal 8 blog or site locally, a few solutions can help you to do so.
 
-'Acquia Dev Desktop' is one of them, it helps in creating a local development environment for Drupal 8. But, it only have installer for Mac and Windows.
+'Acquia Dev Desktop' is one of them, it helps in creating a local development environment for Drupal 8. But, it only have the installer for Mac and Windows.
 
-Installing 'Ampps', 'WampServer', or a 'LAMP'/'LEMP' stack could be one of the option as well.
+Installing 'Ampps', 'WampServer', or a 'LAMP'/'LEMP' stack could be one of the options as well.
 
 But, I have found [Lando](https://docs.devwithlando.io/) makes it easier to do so. Irrespective of the operating system or distro you are working on.
 Moreover, it runs as an 'abstraction layer' to spin up docker containers with sane defaults.
@@ -66,7 +66,7 @@ Moreover, it runs as an 'abstraction layer' to spin up docker containers with sa
 
 ### 2. Creating the Local development environment for Drupal 8 with Lando.
 
-  1. Open the terminal from home directory. This can be from anywhere as well.
+  1. Open the terminal from the home directory. This can be from anywhere as well.
     *Note: You may use Git Bash if you are using windows.*
 
   2. Use the following command to create a folder named 'my_site_name_dir' and pull the Drupal 8 code inside it.

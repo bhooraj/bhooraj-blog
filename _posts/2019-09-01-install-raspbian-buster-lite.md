@@ -17,7 +17,7 @@ In this short tutorial let us learn how to install the Raspbian Buster on Raspbe
 <!--more-->
 
 # Raspbian Buster
-Raspbian Buster is the officially supported operating system from [Raspberry Pi Foundation](https://www.raspberrypi.org/). Soon, after releasing the Raspberry Pi 4b launch, the Raspberry Pi foundation released the Raspbian Buster. 
+Raspbian Buster is the officially supported operating system by [Raspberry Pi Foundation](https://www.raspberrypi.org/). Soon, after releasing the Raspberry Pi 4b launch, the Raspberry Pi foundation released the Raspbian Buster. 
 
 Currently, the Raspbian Buster is available in three variants. You can download it from the Foundation’s [download](https://www.raspberrypi.org/downloads/raspbian/) page. The three variants are:
 
@@ -27,10 +27,10 @@ Currently, the Raspbian Buster is available in three variants. You can download 
 
 The first two variants come with a GUI (Graphical User Interface). The Raspbian Buster Lite is a CLI (Command Line Interface) based OS. It comes with just enough preinstalled packages that are necessary to run web apps and services. In this example, we stick with Raspbian Buster Lite.
 
-> If you want to read more about the new Raspberry Pi 4b, you can read my [article](https://bhooraj.com/technology/raspberry-pi-4b/) about it. 
+> If you want to read more about the new Raspberry Pi 4b, you can read my [article](/technology/raspberry-pi-4b/) about it. 
 
 # Installation steps
-1.  Download the Raspbian Buster Lite image from the [Raspberry Pi's Raspbian download page](https://www.raspberrypi.org/downloads/raspbian/).
+1.  Download the Raspbian Buster Lite image from [Raspberry Pi's Raspbian download page](https://www.raspberrypi.org/downloads/raspbian/).
 
 2. Take a micro-SD card (a pre-formatted card or the one that does not have some valuable data) and connect it to a computer using a micro-SD card reader. Prefer, atleast a UHS-I, Grade 1, Class 10 micro-SD card for better performance. We use the following card: 
     

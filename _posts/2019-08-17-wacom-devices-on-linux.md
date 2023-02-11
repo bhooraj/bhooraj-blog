@@ -52,15 +52,15 @@ The result remains the same on Windows 10 Pro while we switch to Intuos 4 for ou
 # Linux and Wacom Devices
 **We have used the Wacom devices on UBUNTU 18.04 LTS and LINUX MINT. So our findings below are based on these two distros only.**
 
-Initially, we installed the Ubuntu 18.04 LTS for catering in our needs for coding. We were developing a website, and it was getting cumbersome for us to install and manage packages on Windows. So, we decided to give Linux (Ubuntu) a try. It helped us a lot in achieving our goals. And, we started reading more about Ubuntu and other Linux distributions.
+Initially, we installed Ubuntu 18.04 LTS for catering to our coding needs. We were developing a website, and it was getting cumbersome for us to install and manage packages on Windows. So, we decided to give Linux (Ubuntu) a try. It helped us a lot in achieving our goals. And, we started reading more about Ubuntu and other Linux distributions.
 
-Finally, we came across Linux Mint, a distro based on Ubuntu. We loved it, not because of its UI resembling with windows. But, because we found it more stable and fast as compared to Ubuntu.
+Finally, we came across Linux Mint, a distro based on Ubuntu. We loved it, not because of its UI resembling windows. But, because we found it more stable and fast as compared to Ubuntu.
 
 Few reasons why we liked the Wacom experience on Linux Mint:
  
 - Linux Mint (Ubuntu as well) comes preinstalled with driver support for Wacom graphic tablets. So, we didn't have to worry about installing drivers for Wacom.
 
-- We didn't find any artefacts while we drew on the tablet.
+- We didn't find any artifacts while we drew on the tablet.
 
 - Similar experience while drawing across all the Art Apps that we installed on Linux Mint.
 
@@ -73,7 +73,7 @@ Below is a screenshot of an attempt to draw a circle on Linux Mint using KRITA w
 
 ***Note: Although there is one caveat while using this approach. The driver which comes installed with Linux mint doesn’t come with the customization options that come with Wacom drivers on Windows.***
 
-Do let us know if you found this article helpful or not? If you want to read more on these subjects. You can follow us on our social handle for more updates.
+Do let us know if you found this article helpful or not. If you want to read more on these subjects. You can follow us on our social handles for more updates.
 
 <br>
 <hr>

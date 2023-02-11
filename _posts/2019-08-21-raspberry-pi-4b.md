@@ -27,7 +27,7 @@ Before, Raspberry Pi 4b, the Raspberry Pi Foundation has released many other [mo
 - 2.4 GHz and 5.0 GHz IEEE 802.11ac wireless, Bluetooth 5.0, BLE
 - Gigabit Ethernet
 - 2 USB 3.0 ports; 2 USB 2.0 ports.
-- Raspberry Pi standard 40 pin GPIO header (fully backwards compatible with previous boards)
+- Raspberry Pi standard 40 pin GPIO header (fully backward compatible with previous boards)
 - 2 × micro-HDMI ports (up to 4kp60 supported)
 - 2-lane MIPI DSI display port
 - 2-lane MIPI CSI camera port
@@ -50,18 +50,18 @@ Before, Raspberry Pi 4b, the Raspberry Pi Foundation has released many other [mo
 # Raspberry pi 4b for Artists and Designers
 **We got our 4GB version of Raspberry Pi 4 soon after its release, but we took out time to write this article to make it more relevant for our users.**
 
-- **Use it as a Desktop**: If your needs are to browse the internet and view some references, Raspberry Pi 4b is a suitable choice for you. It is an affordable device that you can plug into any HDMI TV/Monitor through a 'micro-HDMI to HDMI cable'. It is a small factor device with less power consumption. You can carry it in your pocket where ever you go.
+- **Use it as a Desktop**: If your needs are to browse the internet and view some references, Raspberry Pi 4b is a suitable choice for you. It is an affordable device that you can plug into any HDMI TV/Monitor through a 'micro-HDMI to HDMI cable'. It is a small-factor device with less power consumption. You can carry it in your pocket where ever you go.
 
-    We will also need a keyboard, a mouse, a USB-C power supply and a micro-SD card (to install OS image) to use the Raspberry Pi 4b as a desktop. Please note that all USB-C power supplies are not compatible with Rpi 4b. Prefer atleast a UHS-I, Grade 1, Class 10 micro-SD card for faster speed. we prefer the following card:
+    We will also need a keyboard, a mouse, a USB-C power supply and a micro-SD card (to install OS image) to use the Raspberry Pi 4b as a desktop. Please note that all USB-C power supplies are not compatible with Rpi 4b. Prefer at least a UHS-I, Grade 1, Class 10 micro-SD card for faster speed. we prefer the following card:
     
     <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B06XWMQ81P&asins=B06XWMQ81P&linkId=b7b6c4920684b3f71ba9b3061339bb6a&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0b467d&bg_color=ffffff">
     </iframe>
 
 - **Use it as a NAS**: You can install [Nextcloud](https://nextcloud.com/) on it and use it to access your files on a local network or through the internet. It can be a great alternative to Dropbox or Google Drive. Maybe we would cover this in another article.
 
-- **Create local development environment for building websites**: We know quite a few designers who like to code their websites themselves. Most of them, use Windows/macOS and they have to install applications like XAMPP, AMPPS, MAMP to do so. Some would create a Linux Virtual machine to simulate the environment.
+- **Create a local development environment for building websites**: We know quite a few designers who like to code their websites themselves. Most of them, use Windows/macOS and they have to install applications like XAMPP, AMPPS, MAMP to do so. Some would create a Linux Virtual machine to simulate the environment.
 
-    Raspberry Pi 4b is a perfect playground to create the development environment. And, it is separate from your regular working OS. Doing so, makes sure you don't mess with your working computer.
+    Raspberry Pi 4b is a perfect playground to create a development environment. And, it is separate from your regular working OS. Doing so makes sure you don't mess with your working computer.
 
 - **Block the internet advertisements**: We know there are quite a few browser extensions that do this job for you. But with [Pi-hole](https://pi-hole.net/) you can block the advertisements throughout a network.
 

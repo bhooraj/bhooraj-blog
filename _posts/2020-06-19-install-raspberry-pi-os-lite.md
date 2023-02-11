@@ -28,7 +28,7 @@ Currently, the Raspberry Pi OS is available in three variants. You can download 
 
 The first two variants come with a GUI (Graphical User Interface). The Raspberry Pi OS Lite is a CLI (Command Line Interface) based OS. It comes with just enough preinstalled packages that are necessary to run web apps and services. In this example, we stick with Raspberry Pi OS Lite.
 
-> If you want to read more about the new Raspberry Pi 4b, you can read my [article](https://bhooraj.com/technology/raspberry-pi-4b/) about it.
+> If you want to read more about the new Raspberry Pi 4b, you can read my [article](/technology/raspberry-pi-4b/) about it.
 
 # Installation steps
 1.  Download the Raspberry Pi OS Lite image from the [Raspberry Pi's Raspbian download page](https://www.raspberrypi.org/downloads/raspberry-pi-os/).
