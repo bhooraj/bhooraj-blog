@@ -25,6 +25,13 @@ Moreover, it runs as an 'abstraction layer' to spin up docker containers with sa
 
 **Let us look at the steps on how to install and use Lando for creating a local development environment for Drupal 8.**
 
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-banner-horizontal.html %}
+</aside>
+<br>
+
 ### 1. Prerequisites for creating a development environment for Drupal 8 with Lando:
 
   **1. Install Docker**

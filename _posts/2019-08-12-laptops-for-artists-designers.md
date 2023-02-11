@@ -40,6 +40,13 @@ So, let us breakdown the choices in the following hierarchical order:
 	</ol>
 </ol>
 
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-laptop-strip.html %}
+</aside>
+<br>
+
 # 1. Budget
 We think this is the most important criteria when choosing a laptop. Keeping a fixed budget will save you a lot of time later when thinking about your needs, and the hardware components you want to include in your laptop. There is no point looking in detail, at the product, which we can’t afford or will put a burden on our spending. 
 
@@ -120,6 +127,12 @@ Separate Graphic Digitizer devices can be connected through the USB port and are
 
 
 <strong> So, these were some important factors when deciding the right laptop for yourself. I hope the article helps you in making the right choice.</strong>
+
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-laptop-strip.html %}
+</aside>
+<br>
 
 ***Note: We will update and edit the article to keep it relevant.  If you find any errors or mistakes, do write to us on our social handles.***
 <br>

@@ -38,6 +38,13 @@ The 13-inch variant of the product comes with following major specification in I
 
 To read the full specifications, visit the [MobileStudio Pro product page](https://www.wacom.com/en-in/products/pen-computers/wacom-mobilestudio-pro#Specifications).
 
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-wacom-devices.html %}
+</aside>
+<br>
+
 ## Performance
 
 1. The Processor that comes with devices is powerful enough to run most of the design and art application.
@@ -77,3 +84,10 @@ To read the full specifications, visit the [MobileStudio Pro product page](https
 
 
 > **To conclude, I think this device is suitable for professionals who are on the move or want to draw outdoors digitally. For the studio use, I will recommend the 16-inch version of the device.**
+
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-wacom-devices.html %}
+</aside>
+<br>

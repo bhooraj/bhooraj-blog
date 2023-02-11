@@ -17,6 +17,13 @@ tags:
 [Raspberry Pi Foundation][def] has made changes to where and how one can download their software. There's a new home to their [software page](https://www.raspberrypi.com/software/). With this new homepage, they have a new tool to install the OS. It is called Raspberry Pi Imager. In this short tutorial let us learn how to install the Raspberry Pi OS using Raspberry Pi Imager. This article will also help if you want to install Ubuntu on a supported Raspberry Pi device (see step 3).
 <!--more-->
 
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-banner-horizontal.html %}
+</aside>
+<br>
+
 # Raspberry Pi OS
 Raspberry Pi OS (previously called Raspbian) is the officially supported operating system by [Raspberry Pi Foundation](https://www.raspberrypi.org/). It is based on Debian (version 11 at the time of writing this article) and comes with all the necessary software for its functioning.
 
@@ -60,6 +67,13 @@ Using Raspberry Pi Imager is a quick and easy way to install Raspberry Pi OS and
 
     > Note: This step is to be performed with caution.
 
+    <br>
+    <aside>
+    <p>Advertisment:</p> 
+    {% include ads/amazon-sd-card.html %}
+    </aside>
+    <br>
+
 5.  Depending on the OS and version of it, you may or may not see the gear icon at the bottom right corner of the program. This is for setting the Advanced options like hostname, enabling SSH, and setting up username-&-password.
 
     <figure class="align-center">
@@ -74,6 +88,14 @@ Using Raspberry Pi Imager is a quick and easy way to install Raspberry Pi OS and
 **We have some steps that we recommend for the first boot. Please follow the steps below.**
 
 ## Booting Raspberry Pi OS Lite for the first time on Raspberry Pi 4b.
+
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-rpi-accessories.html %}
+</aside>
+<br>
+
 1.  Remove the micro-SD from the micro-SD card reader. Insert the card into the Raspberry Pi SD card slot. Plug in the ethernet cable and power cable. Raspberry Pi OS Lite would boot up.
 
 2.  Reserve a local IP address for the Raspberry Pi in your Router's settings. This will make sure that the local IP address remains constant for the device.<br>
@@ -122,5 +144,9 @@ Use the following commands to update and upgrade:
 
 > **That is it, our Raspberry Pi with Raspberry Pi OS Lite is now ready. We may install any packages we wish.**
 
-
-[def]: https://www.raspberrypi.org/
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-banner-horizontal.html %}
+</aside>
+<br>

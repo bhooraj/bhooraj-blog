@@ -34,7 +34,7 @@ The first two variants come with a GUI (Graphical User Interface). The Raspbian 
 
 2. Take a micro-SD card (a pre-formatted card or the one that does not have some valuable data) and connect it to a computer using a micro-SD card reader. Prefer, atleast a UHS-I, Grade 1, Class 10 micro-SD card for better performance. We use the following card: 
     
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B06XWMQ81P&asins=B06XWMQ81P&linkId=d266c7adb9003166b396d7b442ab28c3&show_border=true&link_opens_in_new_window=true"></iframe>
+    {% include ads/amazon-sd-card.html %}
 
 3. We will use 'balenaEtcher' program to flash the image to the card. So, you can download  'balenaEtcher' from their [download page](https://www.balena.io/etcher/). Download the right installation media accordingly for your computer's OS.
 
@@ -45,6 +45,13 @@ The first two variants come with a GUI (Graphical User Interface). The Raspbian 
 6. Review your selections and click on 'Flash!'. After a while, the OS image would be flashed on to the card. 
 
 **We have some steps that we recommend for the first boot. Please follow the steps below.**
+
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-rpi-accessories.html %}
+</aside>
+<br>
 
 ## Booting Raspbian Lite for the first time on Raspberry Pi 4b.
 1. Go to the 'boot' partition on the flashed micro-SD card. Create an empty file named **'ssh'** (without the single quotes).<br> 

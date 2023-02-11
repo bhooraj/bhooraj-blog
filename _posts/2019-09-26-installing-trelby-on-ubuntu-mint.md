@@ -23,6 +23,13 @@ The Debian package for Trelby 2.2 on the [download](https://www.trelby.org/downl
 
 The reason for this is an unmet dependency  `python-wxgtk2.8`. The `python-wxgtk2.8` package is not in ubuntu's repository and so the `.deb` installer won't  work on Ubuntu 18.04 LTS.
 
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-banner-horizontal.html %}
+</aside>
+<br>
+
 # Installing Trelby 2.3-dev on Ubuntu 18.04 or Linux Mint 19.2
 
 The following steps will install the current development version of the Trelby.
@@ -67,3 +74,10 @@ sudo chmod +x trelby.desktop
 ```
 
 Now, we have a successful installation of Trelby and we can launch the application.
+
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-banner-horizontal.html %}
+</aside>
+<br>

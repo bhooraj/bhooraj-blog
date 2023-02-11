@@ -46,8 +46,13 @@ The result remains the same on Windows 10 Pro while we switch to Intuos 4 for ou
 
 *Note: We do not know how the Wacom devices perform while using Adobe Photoshop on Window 10 Pro.*
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B07BPDGF32&asins=B07BPDGF32&linkId=72732ef6601e8e78cb9796f88e25cbe8&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0b467d&bg_color=ffffff">
-    </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B01MQU5LW7&asins=B01MQU5LW7&linkId=c361910751a8b2a11175f50fd3726a9b&show_border=true&link_opens_in_new_window=true"></iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B07RXWY67K&asins=B07RXWY67K&linkId=97b08522747627c7fb122a7f5d37329c&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-wacom-devices.html %}
+</aside>
+<br>
 
 # Linux and Wacom Devices
 **We have used the Wacom devices on UBUNTU 18.04 LTS and LINUX MINT. So our findings below are based on these two distros only.**
@@ -76,6 +81,12 @@ Below is a screenshot of an attempt to draw a circle on Linux Mint using KRITA w
 Do let us know if you found this article helpful or not. If you want to read more on these subjects. You can follow us on our social handles for more updates.
 
 <br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-wacom-devices.html %}
+</aside>
+<br>
+
 <hr>
 **You may add your impressions regarding the blog post here:**
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wacom tablets work better on Linux than windows?<br>Let&#39;s find out.<a href="https://twitter.com/hashtag/wacom?src=hash&amp;ref_src=twsrc%5Etfw">#wacom</a> <a href="https://twitter.com/hashtag/drawingtablets?src=hash&amp;ref_src=twsrc%5Etfw">#drawingtablets</a> <a href="https://twitter.com/hashtag/linux?src=hash&amp;ref_src=twsrc%5Etfw">#linux</a> <a href="https://twitter.com/hashtag/windows?src=hash&amp;ref_src=twsrc%5Etfw">#windows</a> <a href="https://twitter.com/hashtag/artists?src=hash&amp;ref_src=twsrc%5Etfw">#artists</a> <a href="https://twitter.com/hashtag/designers?src=hash&amp;ref_src=twsrc%5Etfw">#designers</a> <a href="https://twitter.com/hashtag/krita?src=hash&amp;ref_src=twsrc%5Etfw">#krita</a> <a href="https://twitter.com/hashtag/clipstudiopaint?src=hash&amp;ref_src=twsrc%5Etfw">#clipstudiopaint</a><a href="https://t.co/ro7a3Kbv3m">https://t.co/ro7a3Kbv3m</a></p>&mdash; bhooraj (@bhoowrites) <a href="https://twitter.com/bhoowrites/status/1162693049299820544?ref_src=twsrc%5Etfw">August 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

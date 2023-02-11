@@ -17,6 +17,15 @@ Recently, [Raspberry Pi Foundation](https://www.raspberrypi.org/) released a new
 In this short tutorial let us learn how to install the Raspberry Pi OS on Raspberry Pi 4b and see if there are some changes in installation.
 <!--more-->
 
+This is the manual installation method. If you want to see Raspberry Pi Imager method, see this [newer article](/technology/install-raspberry-pi-os-using-pi-imager/).
+
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-banner-horizontal.html %}
+</aside>
+<br>
+
 # Raspberry Pi OS
 Raspberry Pi OS (previously called Raspbian) is the officially supported operating system from [Raspberry Pi Foundation](https://www.raspberrypi.org/). It is based on Debian Buster and comes with all necessary software for its functioning.
 
@@ -35,7 +44,7 @@ The first two variants come with a GUI (Graphical User Interface). The Raspberry
 
 2. Take a micro-SD card (a pre-formatted card or the one that does not have some valuable data) and connect it to a computer using a micro-SD card reader. Prefer, atleast a UHS-I, Grade 1, Class 10 micro-SD card for better performance. We use the following card:
 
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=altback0e-21&marketplace=amazon&region=IN&placement=B06XWMQ81P&asins=B06XWMQ81P&linkId=d266c7adb9003166b396d7b442ab28c3&show_border=true&link_opens_in_new_window=true"></iframe>
+    {% include ads/amazon-sd-card.html %}
 
 3. We will use 'balenaEtcher' program to flash the image to the card. So, you can download  'balenaEtcher' from their [download page](https://www.balena.io/etcher/). Download the right installation media accordingly for your computer's OS.
 
@@ -48,6 +57,13 @@ The first two variants come with a GUI (Graphical User Interface). The Raspberry
 **We have some steps that we recommend for the first boot. Please follow the steps below.**
 
 ## Booting Raspberry Pi OS Lite for the first time on Raspberry Pi 4b.
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-rpi-accessories.html %}
+</aside>
+<br>
+
 1. Go to the 'boot' partition on the flashed micro-SD card. Create an empty file named **'ssh'** (without the single quotes).<br>
 *Note: We are taking this step so that we don't have to connect our Raspberry Pi 4 to an external monitor. We will SSH into our Raspberry Pi 4b to use the CLI.*
 
@@ -100,3 +116,10 @@ Use the following commands to update and upgrade:
     After the reboot we will login again using SSH.
 
 > **That is it, our Raspberry Pi with Raspberry Pi OS Lite is now ready. We may install any packages we wish.**
+
+<br>
+<aside>
+<p>Advertisment:</p> 
+{% include ads/amazon-banner-horizontal.html %}
+</aside>
+<br>
